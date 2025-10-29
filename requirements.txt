@@ -1,0 +1,6 @@
+torch==2.4.0
+pandas
+numpy
+scipy
+xlrd==2.0.1
+matplotlib
